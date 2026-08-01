@@ -1,15 +1,15 @@
 <div align="center">
 
-# 🗜️ PDF Compress
+# 📕 PDF Compress
 
-### Use PDF Compress free on ToolAdda — quick, accurate, and browser-based.
+### Shrink large PDFs for email, portals, and sharing — without uploading to any server. Choose your compression level, watch real-time progress, and download a lighter file in seconds. Free, private, and no watermark.
 
 [![Visit PDF Compress](https://img.shields.io/badge/Visit%20PDF%20Compress-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/pdf-compress.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/pdf-compress.html)
 [![Category](https://img.shields.io/badge/PDF%20Tools-f59e0b?style=for-the-badge)](#)
 
-**Compress PDF files and reduce PDF size free online. Runs 100% in your browser — no uploads, no signup. Shrink large PDFs for email and web.**
+**Compress PDF to a target size free — 100KB, 300KB, 500KB or under 1MB. Best quality that fits. No upload, no signup, runs in your browser.**
 
 [🚀 **Open PDF Compress Now →**](https://tooladda.online/pdf-compress.html)
 
@@ -91,10 +91,22 @@ Visit tooladda.online — search for PDF Compress or use the link in this reposi
 ## 🔍 SEO keywords
 
 <p align="center">
-  <code>pdf compress</code>&nbsp;
-  <code>free pdf compress</code>&nbsp;
-  <code>online pdf compress</code>&nbsp;
-  <code>pdf compress tooladda</code>&nbsp;
+  <code>compress pdf to 100kb</code>&nbsp;
+  <code>compress pdf to 500kb</code>&nbsp;
+  <code>compress pdf to 300kb</code>&nbsp;
+  <code>compress pdf to 200kb</code>&nbsp;
+  <code>compress pdf to 400kb</code>&nbsp;
+  <code>compress pdf to 50kb</code>&nbsp;
+  <code>compress pdf under 1mb</code>&nbsp;
+  <code>compress pdf to 1mb free</code>&nbsp;
+  <code>compress pdf below 100kb</code>&nbsp;
+  <code>pdf 200kb compress</code>&nbsp;
+  <code>pdf compress 100kb</code>&nbsp;
+  <code>compress pdf 1mb</code>&nbsp;
+  <code>pdf compressor</code>&nbsp;
+  <code>compress pdf online</code>&nbsp;
+  <code>reduce pdf size</code>&nbsp;
+  <code>free pdf compressor</code>&nbsp;
 </p>
 
 ---
@@ -111,4 +123,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: PDF Compress, pdf compress, free pdf compress, online pdf compress, pdf compress tooladda, tooladda, free online tool -->
+<!-- SEO: PDF Compress, compress pdf to 100kb, compress pdf to 500kb, compress pdf to 300kb, compress pdf to 200kb, compress pdf to 400kb, compress pdf to 50kb, compress pdf under 1mb, compress pdf to 1mb free, compress pdf below 100kb, pdf 200kb compress, pdf compress 100kb, compress pdf 1mb, pdf compressor, compress pdf online, reduce pdf size, free pdf compressor, tooladda, free online tool -->
